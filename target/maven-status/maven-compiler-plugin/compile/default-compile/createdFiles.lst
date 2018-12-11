@@ -1,0 +1,5 @@
+com\kafka\domain\Message.class
+com\kafka\controller\ProducerController.class
+com\kafka\Application.class
+com\kafka\HelloController.class
+com\kafka\service\ProducerService.class
